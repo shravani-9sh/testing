@@ -1,6 +1,6 @@
 # functions are used for code reusability
 # function definition:
-# a function will not be called by itself but programmer should call it ---- calling a function
+# a function will not be called by itself but programmer should call it ---- calling a function....
 
 def function_name1():
     print(2+2)   
